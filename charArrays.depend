@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1708355017 source:c:\users\jett\documents\c++ projects\chararrays\main.cpp
+	<iostream>
+	"practice1.h"
+	"practice2.h"
+	"practice3.h"
+	"EQ1.h"
+	"EQ2.h"
+	"EQ3.h"
+	"EQ4.h"
+	"EQ5.h"
+	"EQ6.h"
+	"MQ1.h"
+	"MQ3.h"
+	"App.h"
+
+1697894968 c:\users\jett\documents\c++ projects\chararrays\practice1.h
+	<iostream>
+
+1697896843 c:\users\jett\documents\c++ projects\chararrays\practice2.h
+	<iostream>
+
+1697898684 c:\users\jett\documents\c++ projects\chararrays\practice3.h
+	<iostream>
+
+1698062007 c:\users\jett\documents\c++ projects\chararrays\eq1.h
+	<iostream>
+
+1698062892 c:\users\jett\documents\c++ projects\chararrays\eq2.h
+	<iostream>
+
+1698333074 c:\users\jett\documents\c++ projects\chararrays\eq3.h
+	<iostream>
+
+1698334043 c:\users\jett\documents\c++ projects\chararrays\eq4.h
+	<iostream>
+
+1698336079 c:\users\jett\documents\c++ projects\chararrays\eq5.h
+	<iostream>
+
+1698338265 c:\users\jett\documents\c++ projects\chararrays\eq6.h
+	<iostream>
+
+1705310611 c:\users\jett\documents\c++ projects\chararrays\mq1.h
+	<iostream>
+
+1705314346 c:\users\jett\documents\c++ projects\chararrays\mq2.h
+	<iostream>
+
+1705315138 c:\users\jett\documents\c++ projects\chararrays\mq3.h
+	<iostream>
+
+1708356838 c:\users\jett\documents\c++ projects\chararrays\app.h
+	<iostream>
+
